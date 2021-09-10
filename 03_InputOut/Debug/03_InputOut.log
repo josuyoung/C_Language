@@ -1,0 +1,3 @@
+﻿  306_input.c
+C:\C_2105\C_Study\03_InputOut\306_input.c(7,9): warning C4101: 'b' :참조되지 않은 지역 변수입니다.
+  03_InputOut.vcxproj -> C:\C_2105\C_Study\Debug\03_InputOutput.exe

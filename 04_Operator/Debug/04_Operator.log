@@ -1,0 +1,3 @@
+﻿  401_operator.c
+C:\C_2105\C_Study\04_Operator\401_operator.c(9,9): warning C4778: 'printf' : 서식 문자열 '%'이(가) 종결되지 않았습니다.
+  04_Operator.vcxproj -> C:\C_2105\C_Study\Debug\04_Operator.exe
